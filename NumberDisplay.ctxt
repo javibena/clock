@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=limitDisplay
+comment0.target=NumberDisplay(int)
+comment0.text=\r\n\ Method\ to\ set\ the\ value\ limit\ of\ display.\r\n
+comment1.params=value
+comment1.target=void\ setValue(int)
+comment1.text=\r\n\ Method\ to\ set\ the\ value\ of\ display.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDisplayValue()
+comment2.text=\r\n\ Returns\ the\ value\ of\ display.\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\r\n
+comment4.params=
+comment4.target=void\ increment()
+comment4.text=\r\n\ Increments\ display\ in\ 1\ until\ the\ stablished\ limit.\ \r\n\ If\ the\ value\ reachs\ the\ limit\ it\ returns\ to\ 0.\r\n
+numComments=5
